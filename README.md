@@ -1,5 +1,6 @@
 # VenomBlogs
 
+<<<<<<< HEAD
 ## Multi user blog posting site
 
 
@@ -19,3 +20,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+## Multi user blog posting sitexs
+>>>>>>> bed5fce7633a93a7b8aa03cb384a51497b8590e3
